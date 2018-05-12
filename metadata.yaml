@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25007'
     url: http://www.gutenberg.org/2009/agents/25007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21980#Motor-Boat-Boys-Mississippi-Cruise--13-or-The-Dash-for-Dixie
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-06-30'
 gutenberg_type: Text
