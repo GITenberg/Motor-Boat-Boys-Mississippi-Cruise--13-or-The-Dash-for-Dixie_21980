@@ -1,0 +1,26 @@
+_repo: Motor-Boat-Boys-Mississippi-Cruise--13-or-The-Dash-for-Dixie_21980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arundel, Louis
+    gutenberg_agent_id: '25007'
+    url: http://www.gutenberg.org/2009/agents/25007
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Motorboats -- Juvenile fiction'
+title: Motor Boat Boys Mississippi Cruise; or, The Dash for Dixie
+url: http://www.gutenberg.org/ebooks/21980
